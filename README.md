@@ -14,6 +14,6 @@ git clone https://github.com/froggyalchemist/recipes-TFG
 conda env create -f environment.yml
 conda activate recipes
 ```
-Now you should be able to run the notebooks in `scripts/!
+Now you should be able to run the notebooks in `scripts/`!
 
 
