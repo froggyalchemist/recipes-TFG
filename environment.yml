@@ -1,0 +1,10 @@
+name: recipes
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - pandas
+  - numpy
+  - networkx
+  - python-dotenv
+prefix: /home/mvelasco/miniconda3/envs/recipes
