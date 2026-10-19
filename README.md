@@ -4,17 +4,16 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
 
 ## How to run
-First, download CulinaryDB and place it in a folder named `CulinaryDB` inside `data/`.
+First, download CulinaryDB and place it in a folder named `CulinaryDB` inside `data/`. Then:
 
 ```python
-# 1. Clone the repository
-git clone xxx
+# Clone the repository
+git clone https://github.com/froggyalchemist/recipes-TFG
 
-# 2. Create conda environment
+# Create conda environment
 conda env create -f environment.yml
 conda activate recipes
-
-# 3. Run notebooks
 ```
+Now you should be able to run the notebooks in `scripts/!
 
 
